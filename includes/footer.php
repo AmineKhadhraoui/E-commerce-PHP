@@ -1,0 +1,102 @@
+<footer id="footer" class="footer color-bg">
+	  <div class="links-social inner-top-sm">
+        <div class="container">
+            <div class="row">
+            	<div class="col-xs-12 col-sm-6 col-md-4">
+<div class="contact-info">
+    <div class="footer-logo">
+        <div class="logo">
+            <a href="index.php">
+                
+<h3>Swift Media Plus .</h3>
+            </a>
+        </div>
+    
+    </div>
+
+     <div class="module-body m-t-20">
+        <p class="about-us"> Garantie à l'achat et à la réparation</p>
+    
+        <div class="social-icons">
+            
+        <a href="https://www.facebook.com/Sajed.Brahmia/" class='active'><i class="icon fa fa-facebook"></i></a>
+
+        </div>
+    </div>
+
+</div>           	
+</div>
+
+            	<div class="col-xs-12 col-sm-6 col-md-4">
+<div class="contact-timing">
+	<div class="module-heading">
+		<h4 class="module-title">Temps d'ouvert</h4>
+	</div>
+
+	<div class="module-body outer-top-xs">
+		<div class="table-responsive">
+			<table class="table">
+				<tbody>
+					<tr><td>Lundi-Vendreudi:</td><td class="pull-right">09.00 à 18.00</td></tr>
+					<tr><td>Samedi:</td><td class="pull-right">09.00 à 20.00</td></tr>
+					<tr><td>Dimanche:</td><td class="pull-right">10.00 à 20.00</td></tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+</div>
+	</div>
+
+            	<div class="col-xs-12 col-sm-6 col-md-4">
+<div class="contact-information">
+	<div class="module-heading">
+		<h4 class="module-title">Informations</h4>
+	</div>
+
+	<div class="module-body outer-top-xs">
+        <ul class="toggle-footer" style="">
+            <li class="media">
+                <div class="pull-left">
+                     <span class="icon fa-stack fa-lg">
+                      <i class="fa fa-circle fa-stack-2x"></i>
+                      <i class="fa fa-map-marker fa-stack-1x fa-inverse"></i>
+                    </span>
+                </div>
+                <div class="media-body">
+                    <p>Iset Mahdia </p>
+                </div>
+            </li>
+
+              <li class="media">
+                <div class="pull-left">
+                     <span class="icon fa-stack fa-lg">
+                      <i class="fa fa-circle fa-stack-2x"></i>
+                      <i class="fa fa-mobile fa-stack-1x fa-inverse"></i>
+                    </span>
+                </div>
+                <div class="media-body">
+                    <p>+216 94171 375<br>+216 11 111 111</p>
+                </div>
+            </li>
+
+              <li class="media">
+                <div class="pull-left">
+                     <span class="icon fa-stack fa-lg">
+                      <i class="fa fa-circle fa-stack-2x"></i>
+                      <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                    </span>
+                </div>
+                <div class="media-body">
+                    <span><a href="#">DSI2023@gmail.com</a></span>
+                </div>
+            </li>
+              
+            </ul>
+    </div>
+</div>
+</div>
+            </div>
+        </div>
+    </div>
+
+    
